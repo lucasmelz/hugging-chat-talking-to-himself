@@ -17,8 +17,6 @@ class ChatBot:
         return session
     
     def change_conversation(self, conversation_id: str) -> bool:
-        if conversation_id not in self.conversation_list:
-            raise Exception("Invalid conversation id. Please check conversation id list.")
         self.now_conversation = conversation_id
         return True
     
