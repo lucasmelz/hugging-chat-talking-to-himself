@@ -2,9 +2,6 @@ import asyncio
 from hugchat import hugchat
 chatbot = hugchat.ChatBot()
 
-async def firstResponse(text):
-    return chatbot.chat(text)
-
 async def fetchResponse(text, conversation_id):
     chatbot.change_conversation(conversation_id)
     return chatbot.chat(text)
