@@ -1,4 +1,4 @@
-# hugging-chat-api
+# hugging-chat-talking-to-itself
 HuggingChat Python API
 
 [![PyPi](https://img.shields.io/pypi/v/hugchat.svg)](https://pypi.python.org/pypi/hugchat)
