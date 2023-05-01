@@ -15,5 +15,5 @@ pip3 install asyncio
 python3 aidialogue.py
 ```
 
-4. We just provided the first messages to the dialogue to start, that is, "hi, how are you?" and "hi, what's up?". Feel free to modify these on the aidialogue.py file!
+4. We just provided the first messages for the dialogue to start, that is, "hi, how are you?" and "hi, what's up?". Feel free to modify these on the aidialogue.py file!
 
