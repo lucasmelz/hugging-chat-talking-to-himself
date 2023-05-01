@@ -8,20 +8,19 @@ HuggingChat Python API
 Leave a star :)
 
 # How to Use
+1. Execute:
+
 ```bash
 pip install hugchat
 ```
-
-```py
-from hugchat import hugchat
-chatbot = hugchat.ChatBot()
-print(chatbot.chat("HI"))
-
-# New a conversation (ignore error)
-id = chatbot.new_conversation()
-chatbot.change_conversation(id)
-
-# Get conversation list
-conversation_list = chatbot.get_conversation_list()
+2. Install asyncio:
 ```
+pip3 install asyncio
+```
+3. Go to the src folder and execute the AI dialogue:
+```
+python3 aidialogue.py
+```
+
+4. We just provided the first messages to the dialogue to start, that is, "hi, how are you?" and "hi, what's up?". Feel free to modify these on the aidialogue.py file!
 
