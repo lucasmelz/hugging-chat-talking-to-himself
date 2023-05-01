@@ -1,11 +1,4 @@
 # hugging-chat-talking-to-itself
-HuggingChat Python API
-
-[![PyPi](https://img.shields.io/pypi/v/hugchat.svg)](https://pypi.python.org/pypi/hugchat)
-[![Support_Platform](https://img.shields.io/pypi/pyversions/hugchat)](https://pypi.python.org/pypi/hugchat)
-[![Downloads](https://static.pepy.tech/badge/hugchat)](https://pypi.python.org/pypi/hugchat)
-
-Leave a star :)
 
 # How to Use
 1. Execute:
